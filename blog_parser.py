@@ -38,8 +38,6 @@ class BlogParser(object):
         """
         response = get_content(self.link)
 
-        print 2 + 2
-
         if response and response.status_code == 200:
             lhtml = lxml.html.fromstring(response.content)
 
