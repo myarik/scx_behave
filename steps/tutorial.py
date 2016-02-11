@@ -1,11 +1,11 @@
 import codecs
 import re
 
-from behave import *
-import requests
 import requests_mock
+from behave import *
 
-from blog_parser import BlogParser
+from parser.blog_parser import BlogParser
+
 
 def file_get_content(path):
     with codecs.open(path, 'r', 'utf-8') as f:
