@@ -12,11 +12,10 @@ def file_get_content(path):
         return f.read()
 
 
-@requests_mock.Mocker()
-@when("I visit url {url} in file {file}")
-def step_impl(context, url, file):
+@when("I visit url {url} in file {file_name}")
+def step_impl(context, url, file_name):
     with requests_mock.Mocker() as m:
-        m.get(url, text=file_get_content('files/{file}'.format(file=file)))
+        m.get(url, text=file_get_content('files/{file_name}'.format(file_name=file_name)))
         blog_parser = BlogParser(url)
         context.content = blog_parser.get_content()
 
@@ -26,6 +25,6 @@ def step_impl(context, text):
     assert bool(re.search(text, context.content))
 
 
-@then("I should not see {text}")
+@then("I shouldn't see {text}")
 def step_impl(context, text):
     assert not bool(re.search(text, context.content))
