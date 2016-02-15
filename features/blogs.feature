@@ -1,18 +1,21 @@
-Feature: Blog parsing
+Feature: Style coalition
 
-  Scenario: jessiibrownie
-    When I visit url http://jessiibrownie.wordpress.com/2016/01/29/a-day-in-agua-blanca/ in file 1.html
-    Then I should see Last weekend I spent the Sunday out with the family
-    And I should see I know is a little different to what I usually post but
-    And I shouldn't see November 2013
-    And I shouldn't see ABOUT ME
-    And I shouldn't see Looks like a cool place
+  Scenario: reset page
+    When I visit url https://test.stylecoalition.com/reset
+    Then I should see Forgot your password?
+    And I should see Enter your email address below and we’ll send you a link to reset your password.
 
-  Scenario: bellamorous
-    When I visit url http://bellamorous.blogspot.com/2016/02/life-college.html in file 2.html
-    Then I should see Due to that I show you this total
-    And I should see I decided to buy this pant skirt or culotte because
-    And I should see SEE YOU SOON
-    And I shouldn't see Besos... Carli
-    And I shouldn't see ABOUT ME
-    And I shouldn't see BLOG ARCHIVES
+    When I send reset form
+    Then I should see This field is required.
+
+    When I fill email by qwerty
+    And I send reset form
+    Then I should see Enter a valid email address.
+
+    When I fill email by qwerty@qwerty.com
+    And I send reset form
+    Then I should see The e-mail address is not assigned to any user account
+
+    When I fill email by a.homenko@synergetica.net
+    And I send reset form
+    Then I should see We've sent you an email with instructions on how to reset your password.
