@@ -1,14 +1,8 @@
-import codecs
-
 import requests_mock
 from behave import *
 
 from blog_parser import BlogParser
-
-
-def file_get_content(path):
-    with codecs.open(path, 'r', 'utf-8') as f:
-        return f.read()
+from utils import file_get_content
 
 
 @requests_mock.Mocker()

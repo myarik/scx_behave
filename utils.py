@@ -1,12 +1,18 @@
 # -*- coding: utf-8 -*-
+import codecs
+import socket
 from time import sleep
 
 import requests
-import socket
 
 requests_session = requests.session()
 
 socket.setdefaulttimeout(60)
+
+
+def file_get_content(path):
+    with codecs.open(path, 'r', 'utf-8') as f:
+        return f.read()
 
 
 def get_content(url, params=None, as_json=True,
@@ -47,9 +53,9 @@ def get_content(url, params=None, as_json=True,
                 raise requests.exceptions.HTTPError
             return r
         except (
-            requests.exceptions.Timeout,
-            requests.exceptions.HTTPError,
-            requests.exceptions.ConnectionError
+                requests.exceptions.Timeout,
+                requests.exceptions.HTTPError,
+                requests.exceptions.ConnectionError
         ):
             retry += 1
             if retry < retries:
