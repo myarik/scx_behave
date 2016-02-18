@@ -1,9 +1,24 @@
+import codecs
+import re
+
+import requests_mock
 from behave import *
 
+from blog_parser import BlogParser
 
-@when("I visit url {url}")
-def step_impl(context, url):
-    context.ua.visit(url)
+
+def file_get_content(path):
+    with codecs.open(path, 'r', 'utf-8') as f:
+        return f.read()
+
+
+@requests_mock.Mocker()
+@when("I visit url {url} in file {file}")
+def step_impl(context, url, file):
+    with requests_mock.Mocker() as m:
+        m.get(url, text=file_get_content('files/{file}'.format(file=file)))
+        blog_parser = BlogParser(url)
+        context.content = blog_parser.get_content()
 
 
 @then("I should see {text}")
@@ -11,15 +26,6 @@ def step_impl(context, text):
     assert context.ua.is_text_present(text)
 
 
-@then("I shouldn't see {text}")
+@then("I should not see {text}")
 def step_impl(context, text):
-    assert not context.ua.is_text_present(text)
-
-
-@when("I send reset form")
-def step_impl(context):
-    context.ua.find_by_css('#login-form > fieldset > input').first.click()
-
-@when("I fill email by {email}")
-def step_impl(context, email):
-    context.ua.find_by_css('#id_email').first.fill(email)
+    assert not bool(re.search(text, context.content))
