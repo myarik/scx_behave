@@ -4,6 +4,9 @@ import codecs
 import lxml.html
 
 from handlers import (Wordpress, Blogspot, Divalicious, Beauty411, Missomnimedia, Sydnestyle, Tumblr, Etc)
+from utils import get_content
+
+
 def file_get_content(path):
     with codecs.open(path, 'r', 'utf-8') as f:
         return f.read()

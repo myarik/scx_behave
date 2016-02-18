@@ -1,5 +1,4 @@
 import codecs
-import re
 
 import requests_mock
 from behave import *
@@ -23,9 +22,9 @@ def step_impl(context, url, file):
 
 @then("I should see {text}")
 def step_impl(context, text):
-    assert context.ua.is_text_present(text)
+    assert text in context.content
 
 
 @then("I should not see {text}")
 def step_impl(context, text):
-    assert not bool(re.search(text, context.content))
+    assert not text in context.content
