@@ -35,6 +35,41 @@ Feature: Blog parsing
     And I should not see baby
     And I should not see FAQ
 
+  Scenario: extrapetite
+    When I visit url http://www.extrapetite.com/2016/01/snow-day.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+ExtraPetite+%28Extra+Petite%29 in file extrapetite.html
+    Then I should see Snow day
+    And I should see Jonas stayed safe
+    And I should see video tutorial sometime!
+    And I should not see the mittens and the hat to match
+    And I should not see Notify me
+    And I should not see haha
+
+  Scenario: thechrisellefactor
+  When I visit url http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/ in file thechrisellefactor.html
+  Then I should see tips
+  And I should see Google Calendar
+  And I should see Share some of your tips
+  And I should not see haha
+  And I should not see Comments are closed
+  And I should not see search
+  And I should not see lifestyle
+
+
+ Scenario: thesmallthingsblog2
+  When I visit url http://www.thesmallthingsblog.com/2016/01/the-coffee-bar/ in file thesmallthingsblog2.html
+  Then I should see The coffee bar
+  And I should see David’s old nursery
+  And I should see an entire room dedicated solely to coffee
+  And I should not see Required fields are marked
+  And I should not see follow-up comments by email.
+  And I should not see haha
+
+
+
+
+
+
+
 
 
 
