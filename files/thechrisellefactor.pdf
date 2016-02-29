@@ -27,12 +27,12 @@
 
 
 <!-- This site is optimized with the Yoast SEO plugin v3.0.6 - https://yoast.com/wordpress/plugins/seo/ -->
-<link rel="canonical" href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/thechrisellefactor.html"/>
+<link rel="canonical" href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/" />
 <!-- / Yoast SEO plugin. -->
 
-<link rel="alternate" type="application/rss+xml" title="The Chriselle Factor &raquo; Feed" href="http://thechrisellefactor.com/feed/thechrisellefactor.html"/>
-<link rel="alternate" type="application/rss+xml" title="The Chriselle Factor &raquo; Comments Feed" href="http://thechrisellefactor.com/comments/feed/thechrisellefactor.html"/>
-<link rel="alternate" type="application/rss+xml" title="The Chriselle Factor &raquo; 5 Apps to be More Productive in 2016 Comments Feed" href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/feed/thechrisellefactor.html"/>
+<link rel="alternate" type="application/rss+xml" title="The Chriselle Factor &raquo; Feed" href="http://thechrisellefactor.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Chriselle Factor &raquo; Comments Feed" href="http://thechrisellefactor.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Chriselle Factor &raquo; 5 Apps to be More Productive in 2016 Comments Feed" href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/feed/" />
 		<script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/thechrisellefactor.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.2"}};
 			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
@@ -96,7 +96,7 @@ var jpibfi_options = {"imageSelector":".jpibfi_container img","disabledClasses":
 <script type='text/javascript' src='http://thechrisellefactor.com/wp-content/plugins/upprev/scripts/upprev.js?ver=3.3.30'></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://thechrisellefactor.com/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://thechrisellefactor.com/wp-includes/wlwmanifest.xml" />
-<link rel='shortlink' href='http://thechrisellefactor.com/thechrisellefactor.html?p=34743' />
+<link rel='shortlink' href='http://thechrisellefactor.com/?p=34743' />
 
 <script type="text/javascript">var TubePressJsConfig = {"urls":{"base":"http:\/\/thechrisellefactor.com\/wp-content\/plugins\/tubepress","usr":"http:\/\/thechrisellefactor.com\/wp-content\/tubepress-content"}};</script>
 		<!--[if lt IE 9]>
@@ -233,79 +233,79 @@ var jpibfi_options = {"imageSelector":".jpibfi_container img","disabledClasses":
 		<div class="top-nav-wrap-mobile">
 			<span class="site-title">MAIN MENU</span>
 			<i class="fa fa-bars"></i>
-			<div class="menu-top-nav-container"><ul id="menu-top-nav" class="menu"><li id="menu-item-21762" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-21762"><a href="http://thechrisellefactor.com/thechrisellefactor.html">Home</a></li>
-<li id="menu-item-21763" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-has-children menu-item-21763"><a href="http://thechrisellefactor.com/category/fashion/thechrisellefactor.html">Fashion</a>
+			<div class="menu-top-nav-container"><ul id="menu-top-nav" class="menu"><li id="menu-item-21762" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-21762"><a href="http://thechrisellefactor.com/">Home</a></li>
+<li id="menu-item-21763" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-has-children menu-item-21763"><a href="http://thechrisellefactor.com/category/fashion/">Fashion</a>
 <ul class="sub-menu">
-	<li id="menu-item-22069" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22069"><a href="http://thechrisellefactor.com/category/fashion/outfits/thechrisellefactor.html">Outfits</a></li>
-	<li id="menu-item-32223" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-32223"><a href="http://thechrisellefactor.com/category/fashion/outfits/fashion-week-outfits/thechrisellefactor.html">Fashion Week</a></li>
-	<li id="menu-item-22060" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22060"><a href="http://thechrisellefactor.com/category/tips/thechrisellefactor.html">Tips</a></li>
-	<li id="menu-item-27689" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27689"><a href="http://thechrisellefactor.com/category/fashion/styling/thechrisellefactor.html">Styling</a></li>
+	<li id="menu-item-22069" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22069"><a href="http://thechrisellefactor.com/category/fashion/outfits/">Outfits</a></li>
+	<li id="menu-item-32223" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-32223"><a href="http://thechrisellefactor.com/category/fashion/outfits/fashion-week-outfits/">Fashion Week</a></li>
+	<li id="menu-item-22060" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22060"><a href="http://thechrisellefactor.com/category/tips/">Tips</a></li>
+	<li id="menu-item-27689" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27689"><a href="http://thechrisellefactor.com/category/fashion/styling/">Styling</a></li>
 </ul>
 </li>
-<li id="menu-item-26636" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-26636"><a href="http://thechrisellefactor.com/category/beauty/thechrisellefactor.html">Beauty</a>
+<li id="menu-item-26636" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-26636"><a href="http://thechrisellefactor.com/category/beauty/">Beauty</a>
 <ul class="sub-menu">
-	<li id="menu-item-26638" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26638"><a href="http://thechrisellefactor.com/category/beauty/skin/thechrisellefactor.html">Skin</a></li>
-	<li id="menu-item-26637" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26637"><a href="http://thechrisellefactor.com/category/beauty/hair-beauty/thechrisellefactor.html">MAKEUP &#038; HAIR</a></li>
-	<li id="menu-item-26639" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26639"><a href="http://thechrisellefactor.com/category/tips/thechrisellefactor.html">Tips / How-To</a></li>
+	<li id="menu-item-26638" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26638"><a href="http://thechrisellefactor.com/category/beauty/skin/">Skin</a></li>
+	<li id="menu-item-26637" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26637"><a href="http://thechrisellefactor.com/category/beauty/hair-beauty/">MAKEUP &#038; HAIR</a></li>
+	<li id="menu-item-26639" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26639"><a href="http://thechrisellefactor.com/category/tips/">Tips / How-To</a></li>
 </ul>
 </li>
-<li id="menu-item-21764" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-21764"><a href="http://thechrisellefactor.com/category/lifestyle/thechrisellefactor.html">LIFESTYLE</a>
+<li id="menu-item-21764" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-21764"><a href="http://thechrisellefactor.com/category/lifestyle/">LIFESTYLE</a>
 <ul class="sub-menu">
-	<li id="menu-item-24312" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-24312"><a href="http://thechrisellefactor.com/category/lifestyle/home-decor/thechrisellefactor.html">Home / Decor</a></li>
-	<li id="menu-item-22727" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22727"><a href="http://thechrisellefactor.com/category/travel-2/thechrisellefactor.html">Travel</a></li>
-	<li id="menu-item-21766" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21766"><a href="http://thechrisellefactor.com/category/lifestyle/fitness-lifestyle/thechrisellefactor.html">Fitness</a></li>
-	<li id="menu-item-25959" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25959"><a href="http://thechrisellefactor.com/category/lifestyle/food/thechrisellefactor.html">Food</a></li>
+	<li id="menu-item-24312" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-24312"><a href="http://thechrisellefactor.com/category/lifestyle/home-decor/">Home / Decor</a></li>
+	<li id="menu-item-22727" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22727"><a href="http://thechrisellefactor.com/category/travel-2/">Travel</a></li>
+	<li id="menu-item-21766" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21766"><a href="http://thechrisellefactor.com/category/lifestyle/fitness-lifestyle/">Fitness</a></li>
+	<li id="menu-item-25959" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25959"><a href="http://thechrisellefactor.com/category/lifestyle/food/">Food</a></li>
 </ul>
 </li>
-<li id="menu-item-22068" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-22068"><a href="http://thechrisellefactor.com/category/series/thechrisellefactor.html">Series</a>
+<li id="menu-item-22068" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-22068"><a href="http://thechrisellefactor.com/category/series/">Series</a>
 <ul class="sub-menu">
-	<li id="menu-item-22729" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22729"><a href="http://thechrisellefactor.com/category/series/dressing-the-bump-series/thechrisellefactor.html">Bump Style</a></li>
-	<li id="menu-item-22728" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22728"><a href="http://thechrisellefactor.com/category/lifestyle/chic-stays/thechrisellefactor.html">Chic Stays</a></li>
-	<li id="menu-item-25958" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25958"><a href="http://thechrisellefactor.com/category/series/7-ways-series/thechrisellefactor.html">7 Ways</a></li>
-	<li id="menu-item-26254" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26254"><a href="http://thechrisellefactor.com/category/series/trends-to-try-series/thechrisellefactor.html">Trends to Try</a></li>
+	<li id="menu-item-22729" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22729"><a href="http://thechrisellefactor.com/category/series/dressing-the-bump-series/">Bump Style</a></li>
+	<li id="menu-item-22728" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22728"><a href="http://thechrisellefactor.com/category/lifestyle/chic-stays/">Chic Stays</a></li>
+	<li id="menu-item-25958" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25958"><a href="http://thechrisellefactor.com/category/series/7-ways-series/">7 Ways</a></li>
+	<li id="menu-item-26254" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26254"><a href="http://thechrisellefactor.com/category/series/trends-to-try-series/">Trends to Try</a></li>
 </ul>
 </li>
 <li id="menu-item-22726" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22726"><a href="http://www.youtube.com/channel/UCZpNX5RWFt1lx_pYMVq8-9g" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.youtube.com/channel/UCZpNX5RWFt1lx_pYMVq8-9g', 'Videos');" target="_blank">Videos</a></li>
-<li id="menu-item-22067" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22067"><a href="http://thechrisellefactor.com/shop/thechrisellefactor.html">Shop</a></li>
-<li id="menu-item-21768" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21768"><a href="http://thechrisellefactor.com/about/thechrisellefactor.html">About</a></li>
+<li id="menu-item-22067" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22067"><a href="http://thechrisellefactor.com/shop/">Shop</a></li>
+<li id="menu-item-21768" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21768"><a href="http://thechrisellefactor.com/about/">About</a></li>
 </ul></div>		</div>
 
 		<div class="top-nav-wrap">
-			<div class="menu-top-nav-container"><ul id="menu-top-nav-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-21762"><a href="http://thechrisellefactor.com/thechrisellefactor.html">Home</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-has-children menu-item-21763"><a href="http://thechrisellefactor.com/category/fashion/thechrisellefactor.html">Fashion</a>
+			<div class="menu-top-nav-container"><ul id="menu-top-nav-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-21762"><a href="http://thechrisellefactor.com/">Home</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-has-children menu-item-21763"><a href="http://thechrisellefactor.com/category/fashion/">Fashion</a>
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22069"><a href="http://thechrisellefactor.com/category/fashion/outfits/thechrisellefactor.html">Outfits</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-32223"><a href="http://thechrisellefactor.com/category/fashion/outfits/fashion-week-outfits/thechrisellefactor.html">Fashion Week</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22060"><a href="http://thechrisellefactor.com/category/tips/thechrisellefactor.html">Tips</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27689"><a href="http://thechrisellefactor.com/category/fashion/styling/thechrisellefactor.html">Styling</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22069"><a href="http://thechrisellefactor.com/category/fashion/outfits/">Outfits</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-32223"><a href="http://thechrisellefactor.com/category/fashion/outfits/fashion-week-outfits/">Fashion Week</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22060"><a href="http://thechrisellefactor.com/category/tips/">Tips</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27689"><a href="http://thechrisellefactor.com/category/fashion/styling/">Styling</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-26636"><a href="http://thechrisellefactor.com/category/beauty/thechrisellefactor.html">Beauty</a>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-26636"><a href="http://thechrisellefactor.com/category/beauty/">Beauty</a>
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26638"><a href="http://thechrisellefactor.com/category/beauty/skin/thechrisellefactor.html">Skin</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26637"><a href="http://thechrisellefactor.com/category/beauty/hair-beauty/thechrisellefactor.html">MAKEUP &#038; HAIR</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26639"><a href="http://thechrisellefactor.com/category/tips/thechrisellefactor.html">Tips / How-To</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26638"><a href="http://thechrisellefactor.com/category/beauty/skin/">Skin</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26637"><a href="http://thechrisellefactor.com/category/beauty/hair-beauty/">MAKEUP &#038; HAIR</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26639"><a href="http://thechrisellefactor.com/category/tips/">Tips / How-To</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-21764"><a href="http://thechrisellefactor.com/category/lifestyle/thechrisellefactor.html">LIFESTYLE</a>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-21764"><a href="http://thechrisellefactor.com/category/lifestyle/">LIFESTYLE</a>
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-24312"><a href="http://thechrisellefactor.com/category/lifestyle/home-decor/thechrisellefactor.html">Home / Decor</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22727"><a href="http://thechrisellefactor.com/category/travel-2/thechrisellefactor.html">Travel</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21766"><a href="http://thechrisellefactor.com/category/lifestyle/fitness-lifestyle/thechrisellefactor.html">Fitness</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25959"><a href="http://thechrisellefactor.com/category/lifestyle/food/thechrisellefactor.html">Food</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-24312"><a href="http://thechrisellefactor.com/category/lifestyle/home-decor/">Home / Decor</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22727"><a href="http://thechrisellefactor.com/category/travel-2/">Travel</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21766"><a href="http://thechrisellefactor.com/category/lifestyle/fitness-lifestyle/">Fitness</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25959"><a href="http://thechrisellefactor.com/category/lifestyle/food/">Food</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-22068"><a href="http://thechrisellefactor.com/category/series/thechrisellefactor.html">Series</a>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-22068"><a href="http://thechrisellefactor.com/category/series/">Series</a>
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22729"><a href="http://thechrisellefactor.com/category/series/dressing-the-bump-series/thechrisellefactor.html">Bump Style</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22728"><a href="http://thechrisellefactor.com/category/lifestyle/chic-stays/thechrisellefactor.html">Chic Stays</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25958"><a href="http://thechrisellefactor.com/category/series/7-ways-series/thechrisellefactor.html">7 Ways</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26254"><a href="http://thechrisellefactor.com/category/series/trends-to-try-series/thechrisellefactor.html">Trends to Try</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22729"><a href="http://thechrisellefactor.com/category/series/dressing-the-bump-series/">Bump Style</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22728"><a href="http://thechrisellefactor.com/category/lifestyle/chic-stays/">Chic Stays</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25958"><a href="http://thechrisellefactor.com/category/series/7-ways-series/">7 Ways</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26254"><a href="http://thechrisellefactor.com/category/series/trends-to-try-series/">Trends to Try</a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22726"><a href="http://www.youtube.com/channel/UCZpNX5RWFt1lx_pYMVq8-9g" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.youtube.com/channel/UCZpNX5RWFt1lx_pYMVq8-9g', 'Videos');" target="_blank">Videos</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22067"><a href="http://thechrisellefactor.com/shop/thechrisellefactor.html">Shop</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21768"><a href="http://thechrisellefactor.com/about/thechrisellefactor.html">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22067"><a href="http://thechrisellefactor.com/shop/">Shop</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21768"><a href="http://thechrisellefactor.com/about/">About</a></li>
 </ul></div>
 			<form method="GET" action="http://thechrisellefactor.com" class="search-form">
 				<input type="text" name="s" placeholder="SEARCH">
@@ -358,17 +358,14 @@ var jpibfi_options = {"imageSelector":".jpibfi_container img","disabledClasses":
 				<div id="post-34743" class="post-single">
 					<div class="post-title-area">
 						<div class="post-cat">
-							<a href="http://thechrisellefactor.com/category/fashion/tips-fashion/thechrisellefactor.html"
-							   rel="category tag">Tips</a>						</div>
+							<a href="http://thechrisellefactor.com/category/fashion/tips-fashion/" rel="category tag">Tips</a>						</div>
 						<h1 class="post-title">
 							5 Apps to be More Productive in 2016						</h1>
 						<div class="post-date">
 							Jan 26, 2016						</div>
 					</div>
 					<div class="content">
-						<input class="jpibfi" type="hidden" ><p style="text-align: center;">As we&#8217;re finishing up January, I&#8217;m completely back into the full swing of things. New videos, new shoots &amp; amazing event like the <a href="http://thechrisellefactor.com/2016/01/golden-globes-2016/thechrisellefactor.html"
-																																																												 target="_blank">Golden Globes</a> and now Paris with Chloe! I&#8217;m very excited about everything coming up this year and if it&#8217;s even possible, life just seems to get crazier with every day. Between being a working mom &amp; producing content- I&#8217;m so thankful to have all the help I can get from my amazing team and supportive family. If you guys remember my <a href="http://thechrisellefactor.com/2015/02/5-apps-makes-life-easier/thechrisellefactor.html"
-																																																																																																																																																										  target="_blank">blogpost from last year</a>, you know I&#8217;m constantly on my phone &amp; I rely on technology a lot. Amazing apps like Alarmed and Asana helps me to keep track of all the things on my work load as well as remind me of where I need to be. Trust me, it&#8217;s not easy to remember all your appointments on top of being a working mom! This year is all about balance &amp; being the most productive I can be. Here are the five apps I use to be more productive!</p>
+						<input class="jpibfi" type="hidden" ><p style="text-align: center;">As we&#8217;re finishing up January, I&#8217;m completely back into the full swing of things. New videos, new shoots &amp; amazing event like the <a href="http://thechrisellefactor.com/2016/01/golden-globes-2016/" target="_blank">Golden Globes</a> and now Paris with Chloe! I&#8217;m very excited about everything coming up this year and if it&#8217;s even possible, life just seems to get crazier with every day. Between being a working mom &amp; producing content- I&#8217;m so thankful to have all the help I can get from my amazing team and supportive family. If you guys remember my <a href="http://thechrisellefactor.com/2015/02/5-apps-makes-life-easier/" target="_blank">blogpost from last year</a>, you know I&#8217;m constantly on my phone &amp; I rely on technology a lot. Amazing apps like Alarmed and Asana helps me to keep track of all the things on my work load as well as remind me of where I need to be. Trust me, it&#8217;s not easy to remember all your appointments on top of being a working mom! This year is all about balance &amp; being the most productive I can be. Here are the five apps I use to be more productive!</p>
 <p><img class="aligncenter size-full wp-image-34799" src="http://thechrisellefactor.com/wp-content/uploads/2016/01/chriselle_lim_5_apps_more_productive-1-3.jpg" alt="chriselle_lim_5_apps_more_productive-1-3" width="1000" height="667" /></p>
 <p style="text-align: center;"><strong>1. Google Calendar</strong></p>
 <p style="text-align: center;">I manage everything on Google Calendar. I make a point to schedule all of my appointments, meetings and work things on the app as soon as they come in. That way, I can see exactly what I have to do for the day. It’s color coordinated so I can easily separate my tasks by category. I also use this app to check what&#8217;s on my editorial calendar. My whole team is shared on the calendar so we can keep track of each other and plan ahead!</p>
@@ -454,7 +451,7 @@ var jpibfi_options = {"imageSelector":".jpibfi_container img","disabledClasses":
 
 											<div id="mce-thankyou" class="clear">
 												<div class="response"></div>
-												<a class="back-btn" href="http://thechrisellefactor.com/thechrisellefactor.html">read newest posts</a>
+												<a class="back-btn" href="http://thechrisellefactor.com/">read newest posts</a>
 											</div>
 
 											<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
@@ -468,8 +465,7 @@ var jpibfi_options = {"imageSelector":".jpibfi_container img","disabledClasses":
 							</div>
 
 							<aside class="footer-related outline"><p class="title">Related posts</p><div class="slider"><ul><li class="item">
-	<a href="http://thechrisellefactor.com/2014/01/chic-sheet-matching-suits-multiple-ways/thechrisellefactor.html"
-	   class="permalink" title="Chic Sheet- Matching Suits" rel="bookmark" onClick="__gaTracker('send', 'event', { eventCategory: 'relatedpost', eventAction: 'http://thechrisellefactor.com/2014/01/chic-sheet-matching-suits-multiple-ways/', eventLabel: 'Chic Sheet- Matching Suits'});"></a>
+	<a href="http://thechrisellefactor.com/2014/01/chic-sheet-matching-suits-multiple-ways/" class="permalink" title="Chic Sheet- Matching Suits" rel="bookmark" onClick="__gaTracker('send', 'event', { eventCategory: 'relatedpost', eventAction: 'http://thechrisellefactor.com/2014/01/chic-sheet-matching-suits-multiple-ways/', eventLabel: 'Chic Sheet- Matching Suits'});"></a>
 
 	<figure>
 		<span class="cover" style="background-image: url(http://thechrisellefactor.com/wp-content/uploads/2014/01/Matchingsuits.jpg)";></span>	</figure>
@@ -479,7 +475,7 @@ var jpibfi_options = {"imageSelector":".jpibfi_container img","disabledClasses":
 	</header>
 </li>
 <li class="item">
-	<a href="http://thechrisellefactor.com/2014/01/chic-sheet-line-skirts/thechrisellefactor.html" class="permalink" title="CHIC SHEET- A Line Skirts" rel="bookmark" onClick="__gaTracker('send', 'event', { eventCategory: 'relatedpost', eventAction: 'http://thechrisellefactor.com/2014/01/chic-sheet-line-skirts/', eventLabel: 'CHIC SHEET- A Line Skirts'});"></a>
+	<a href="http://thechrisellefactor.com/2014/01/chic-sheet-line-skirts/" class="permalink" title="CHIC SHEET- A Line Skirts" rel="bookmark" onClick="__gaTracker('send', 'event', { eventCategory: 'relatedpost', eventAction: 'http://thechrisellefactor.com/2014/01/chic-sheet-line-skirts/', eventLabel: 'CHIC SHEET- A Line Skirts'});"></a>
 
 	<figure>
 		<span class="cover" style="background-image: url(http://thechrisellefactor.com/wp-content/uploads/2014/01/Cover.jpg)";></span>	</figure>
@@ -489,7 +485,7 @@ var jpibfi_options = {"imageSelector":".jpibfi_container img","disabledClasses":
 	</header>
 </li>
 <li class="item">
-	<a href="http://thechrisellefactor.com/2014/01/chic-sheet-print-print/thechrisellefactor.html" class="permalink" title="CHIC SHEET- Print on Print" rel="bookmark" onClick="__gaTracker('send', 'event', { eventCategory: 'relatedpost', eventAction: 'http://thechrisellefactor.com/2014/01/chic-sheet-print-print/', eventLabel: 'CHIC SHEET- Print on Print'});"></a>
+	<a href="http://thechrisellefactor.com/2014/01/chic-sheet-print-print/" class="permalink" title="CHIC SHEET- Print on Print" rel="bookmark" onClick="__gaTracker('send', 'event', { eventCategory: 'relatedpost', eventAction: 'http://thechrisellefactor.com/2014/01/chic-sheet-print-print/', eventLabel: 'CHIC SHEET- Print on Print'});"></a>
 
 	<figure>
 		<span class="cover" style="background-image: url(http://thechrisellefactor.com/wp-content/uploads/2014/01/TheChicSheet-700x650.jpg)";></span>	</figure>
@@ -499,7 +495,7 @@ var jpibfi_options = {"imageSelector":".jpibfi_container img","disabledClasses":
 	</header>
 </li>
 <li class="item">
-	<a href="http://thechrisellefactor.com/2014/02/chic-sheet-red-hues/thechrisellefactor.html" class="permalink" title="Chic Sheet- Red Hues" rel="bookmark" onClick="__gaTracker('send', 'event', { eventCategory: 'relatedpost', eventAction: 'http://thechrisellefactor.com/2014/02/chic-sheet-red-hues/', eventLabel: 'Chic Sheet- Red Hues'});"></a>
+	<a href="http://thechrisellefactor.com/2014/02/chic-sheet-red-hues/" class="permalink" title="Chic Sheet- Red Hues" rel="bookmark" onClick="__gaTracker('send', 'event', { eventCategory: 'relatedpost', eventAction: 'http://thechrisellefactor.com/2014/02/chic-sheet-red-hues/', eventLabel: 'Chic Sheet- Red Hues'});"></a>
 
 	<figure>
 		<span class="cover" style="background-image: url(http://thechrisellefactor.com/wp-content/uploads/2014/02/red-cover.jpg)";></span>	</figure>
@@ -526,7 +522,7 @@ var jpibfi_options = {"imageSelector":".jpibfi_container img","disabledClasses":
 				<div class="comment-author vcard">
 			<img alt='' src='http://1.gravatar.com/avatar/db31063d5c5d4282a5af35e66c6b6c06?s=32&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/db31063d5c5d4282a5af35e66c6b6c06?s=64&amp;d=mm&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn">Kenyetta H.</cite> <span class="says">says:</span>		</div>
 
-		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#thechrisellefactor.html">
+		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#comment-1200974">
 			February 3, 2016 at 7:02 PM</a>		</div>
 
 		<p>Hi Chriselle, love the post! If you don&#8217;t mind me asking, what type of camera do you use to snap your photos? I&#8217;ve been looking for a good camera for blogging. Thanks <img src="http://thechrisellefactor.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
@@ -539,7 +535,7 @@ var jpibfi_options = {"imageSelector":".jpibfi_container img","disabledClasses":
 				<div class="comment-author vcard">
 			<img alt='' src='http://1.gravatar.com/avatar/a3284dd73d6ca9c4a338eda210d3c2f0?s=32&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/a3284dd73d6ca9c4a338eda210d3c2f0?s=64&amp;d=mm&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn"><a target="_blank" href='http://casuallydapper@yahoo.com' rel='external nofollow' class='url'>Danielle</a></cite> <span class="says">says:</span>		</div>
 
-		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#thechrisellefactor.html">
+		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#comment-1200655">
 			January 30, 2016 at 6:30 PM</a>		</div>
 
 		<p>Where is that fur key chain from! I would love to know!</p>
@@ -552,7 +548,7 @@ var jpibfi_options = {"imageSelector":".jpibfi_container img","disabledClasses":
 				<div class="comment-author vcard">
 			<img alt='' src='http://2.gravatar.com/avatar/ee50f557c8fe8722a7baa1c50af41cfa?s=32&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/ee50f557c8fe8722a7baa1c50af41cfa?s=64&amp;d=mm&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn"><a target="_blank" href='https://timecamp.com/' rel='external nofollow' class='url'>Katie</a></cite> <span class="says">says:</span>		</div>
 
-		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#thechrisellefactor.html">
+		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#comment-1200585">
 			January 29, 2016 at 5:16 AM</a>		</div>
 
 		<p>I use Asana with Time Tracking Software &#8211; have you ever heard about it? Mine is called TimeCamp. I have to admit that those two apps working together are great.</p>
@@ -565,7 +561,7 @@ var jpibfi_options = {"imageSelector":".jpibfi_container img","disabledClasses":
 				<div class="comment-author vcard">
 			<img alt='' src='http://1.gravatar.com/avatar/d35e576a39465d9e78deded62acb1803?s=32&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/d35e576a39465d9e78deded62acb1803?s=64&amp;d=mm&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn"><a target="_blank" href='http://www.chriselleinc.com' rel='external nofollow' class='url'>Chriselle</a></cite> <span class="says">says:</span>		</div>
 
-		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#thechrisellefactor.html">
+		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#comment-1200775">
 			February 1, 2016 at 3:34 PM</a>		</div>
 
 		<p>Hmm, I&#8217;ll look into that! Thanks Katie! xoxo</p>
@@ -580,7 +576,7 @@ var jpibfi_options = {"imageSelector":".jpibfi_container img","disabledClasses":
 				<div class="comment-author vcard">
 			<img alt='' src='http://2.gravatar.com/avatar/57f4c2340dd279b74ead7289ae951716?s=32&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/57f4c2340dd279b74ead7289ae951716?s=64&amp;d=mm&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn">Shelley</cite> <span class="says">says:</span>		</div>
 
-		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#thechrisellefactor.html">
+		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#comment-1200561">
 			January 28, 2016 at 4:18 PM</a>		</div>
 
 		<p>I work at Dropbox! I&#8217;m so glad to hear that you love using our product. I love your blog so much <img src="http://thechrisellefactor.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Thanks for being an inspiration.</p>
@@ -593,7 +589,7 @@ var jpibfi_options = {"imageSelector":".jpibfi_container img","disabledClasses":
 				<div class="comment-author vcard">
 			<img alt='' src='http://1.gravatar.com/avatar/d35e576a39465d9e78deded62acb1803?s=32&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/d35e576a39465d9e78deded62acb1803?s=64&amp;d=mm&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn"><a target="_blank" href='http://www.chriselleinc.com' rel='external nofollow' class='url'>Chriselle</a></cite> <span class="says">says:</span>		</div>
 
-		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#thechrisellefactor.html">
+		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#comment-1200784">
 			February 1, 2016 at 3:35 PM</a>		</div>
 
 		<p>Aw thanks so much Shelley! xoxo</p>
@@ -608,7 +604,7 @@ var jpibfi_options = {"imageSelector":".jpibfi_container img","disabledClasses":
 				<div class="comment-author vcard">
 			<img alt='' src='http://2.gravatar.com/avatar/be9d12e51f9d8892f0fb1ba1b03ee38c?s=32&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/be9d12e51f9d8892f0fb1ba1b03ee38c?s=64&amp;d=mm&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn">Simply Uneeke</cite> <span class="says">says:</span>		</div>
 
-		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#thechrisellefactor.html">
+		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#comment-1200535">
 			January 28, 2016 at 3:14 AM</a>		</div>
 
 		<p>I am such a procrastinator i even procrastinate procrastination lol, This list would really help me out a lot. Thanks Chriselle. P.s would appreciate if you checked out my blog.</p>
@@ -622,7 +618,7 @@ var jpibfi_options = {"imageSelector":".jpibfi_container img","disabledClasses":
 				<div class="comment-author vcard">
 			<img alt='' src='http://1.gravatar.com/avatar/d35e576a39465d9e78deded62acb1803?s=32&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/d35e576a39465d9e78deded62acb1803?s=64&amp;d=mm&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn"><a target="_blank" href='http://www.chriselleinc.com' rel='external nofollow' class='url'>Chriselle</a></cite> <span class="says">says:</span>		</div>
 
-		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#thechrisellefactor.html">
+		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#comment-1200800">
 			February 1, 2016 at 3:38 PM</a>		</div>
 
 		<p>Hi love! I&#8217;m glad you enjoyed the post! xoxo</p>
@@ -637,7 +633,7 @@ var jpibfi_options = {"imageSelector":".jpibfi_container img","disabledClasses":
 				<div class="comment-author vcard">
 			<img alt='' src='http://0.gravatar.com/avatar/fc7a63281e12093e38a62c6a791673f5?s=32&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/fc7a63281e12093e38a62c6a791673f5?s=64&amp;d=mm&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn"><a target="_blank" href='http://www.chasingbelle.com' rel='external nofollow' class='url'>Jessie @ Chasing Belle</a></cite> <span class="says">says:</span>		</div>
 
-		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#thechrisellefactor.html">
+		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#comment-1200462">
 			January 27, 2016 at 9:12 AM</a>		</div>
 
 		<p>I love finding out about new apps! Especially ones that allow me to be more productive. I am definitely downloading Alarmed! It sounds amazing!</p>
@@ -650,7 +646,7 @@ var jpibfi_options = {"imageSelector":".jpibfi_container img","disabledClasses":
 				<div class="comment-author vcard">
 			<img alt='' src='http://1.gravatar.com/avatar/19d3cd594b400aad8977e5f05161de0c?s=32&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/19d3cd594b400aad8977e5f05161de0c?s=64&amp;d=mm&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn"><a target="_blank" href='http://Thefashioncocktail.com' rel='external nofollow' class='url'>Sumit</a></cite> <span class="says">says:</span>		</div>
 
-		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#thechrisellefactor.html">
+		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#comment-1200450">
 			January 27, 2016 at 6:37 AM</a>		</div>
 
 		<p>Thank you for sharing this helpful list of   apps.<br />
@@ -664,7 +660,7 @@ As an blogger even i know how hard it is to stick to schedule.</p>
 				<div class="comment-author vcard">
 			<img alt='' src='http://1.gravatar.com/avatar/4920bb8bfdd32d3ab819fc7bbb899c31?s=32&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/4920bb8bfdd32d3ab819fc7bbb899c31?s=64&amp;d=mm&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn"><a target="_blank" href='http://hafizahrosni.blogspot.my/' rel='external nofollow' class='url'>Hafizah Rosni</a></cite> <span class="says">says:</span>		</div>
 
-		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#thechrisellefactor.html">
+		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#comment-1200442">
 			January 27, 2016 at 3:02 AM</a>		</div>
 
 		<p>Thanks for the tips!</p>
@@ -678,7 +674,7 @@ As an blogger even i know how hard it is to stick to schedule.</p>
 				<div class="comment-author vcard">
 			<img alt='' src='http://1.gravatar.com/avatar/4f3a392224caa2ea221a2c5254ee80ab?s=32&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/4f3a392224caa2ea221a2c5254ee80ab?s=64&amp;d=mm&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn"><a target="_blank" href='http://clothestoyouuu.com/' rel='external nofollow' class='url'>Elizabeth T.</a></cite> <span class="says">says:</span>		</div>
 
-		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#thechrisellefactor.html">
+		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#comment-1200432">
 			January 26, 2016 at 9:50 PM</a>		</div>
 
 		<p>Thank you so much for sharing these amazing apps! I know exactly what you mean about juggling work and everything &#8211; it can definitely get hectic, especially since you also have Chloe <img src="http://thechrisellefactor.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /> I&#8217;ve always loved Google Calendar and how productive it makes me feel! I also love having a daily planner as well because it feels so good to just cross something off of my list when it&#8217;s done! Loved this post so much! You always have such great tips! </p>
@@ -693,7 +689,7 @@ As an blogger even i know how hard it is to stick to schedule.</p>
 				<div class="comment-author vcard">
 			<img alt='' src='http://0.gravatar.com/avatar/96510af67c6b146531f7d62f2b8649ab?s=32&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/96510af67c6b146531f7d62f2b8649ab?s=64&amp;d=mm&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn"><a target="_blank" href='http://www.alittlebitof.at' rel='external nofollow' class='url'>Sunita</a></cite> <span class="says">says:</span>		</div>
 
-		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#thechrisellefactor.html">
+		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#comment-1200158">
 			January 26, 2016 at 12:34 PM</a>		</div>
 
 		<p>Great tips, love it!</p>
@@ -707,7 +703,7 @@ As an blogger even i know how hard it is to stick to schedule.</p>
 				<div class="comment-author vcard">
 			<img alt='' src='http://1.gravatar.com/avatar/d35e576a39465d9e78deded62acb1803?s=32&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/d35e576a39465d9e78deded62acb1803?s=64&amp;d=mm&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn"><a target="_blank" href='http://www.chriselleinc.com' rel='external nofollow' class='url'>Chriselle</a></cite> <span class="says">says:</span>		</div>
 
-		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#thechrisellefactor.html">
+		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#comment-1200169">
 			January 26, 2016 at 3:31 PM</a>		</div>
 
 		<p>So glad you liked it, Sunita! Thank you! xoxo</p>
@@ -722,7 +718,7 @@ As an blogger even i know how hard it is to stick to schedule.</p>
 				<div class="comment-author vcard">
 			<img alt='' src='http://0.gravatar.com/avatar/fdb55cdab9bd66348aaf3836a8098ec6?s=32&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/fdb55cdab9bd66348aaf3836a8098ec6?s=64&amp;d=mm&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn"><a target="_blank" href='http://www.chevronsandeclairs.com' rel='external nofollow' class='url'>supal {chevrons &amp; éclairs}</a></cite> <span class="says">says:</span>		</div>
 
-		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#thechrisellefactor.html">
+		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#comment-1200151">
 			January 26, 2016 at 10:58 AM</a>		</div>
 
 		<p>Oh man I&#8217;m a sucker for posts like this! Thank you for sharing Asana and Alarmed! I think I would add ToDoist. SO good <img src="http://thechrisellefactor.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /> x</p>
@@ -736,7 +732,7 @@ As an blogger even i know how hard it is to stick to schedule.</p>
 				<div class="comment-author vcard">
 			<img alt='' src='http://1.gravatar.com/avatar/d35e576a39465d9e78deded62acb1803?s=32&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/d35e576a39465d9e78deded62acb1803?s=64&amp;d=mm&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn"><a target="_blank" href='http://www.chriselleinc.com' rel='external nofollow' class='url'>Chriselle</a></cite> <span class="says">says:</span>		</div>
 
-		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#thechrisellefactor.html">
+		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#comment-1200173">
 			January 26, 2016 at 3:32 PM</a>		</div>
 
 		<p>Thanks love! I&#8217;m so glad you enjoyed it! xoxo</p>
@@ -751,7 +747,7 @@ As an blogger even i know how hard it is to stick to schedule.</p>
 				<div class="comment-author vcard">
 			<img alt='' src='http://1.gravatar.com/avatar/a69ae59bd239aae3969b5ce6958439cd?s=32&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/a69ae59bd239aae3969b5ce6958439cd?s=64&amp;d=mm&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn"><a target="_blank" href='http://www.whenindoubtblog.com' rel='external nofollow' class='url'>Cindy</a></cite> <span class="says">says:</span>		</div>
 
-		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#thechrisellefactor.html">
+		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#comment-1200150">
 			January 26, 2016 at 10:32 AM</a>		</div>
 
 		<p>We use Asana as well with my group of blogger friends, it&#8217;s amazing!</p>
@@ -766,7 +762,7 @@ As an blogger even i know how hard it is to stick to schedule.</p>
 				<div class="comment-author vcard">
 			<img alt='' src='http://1.gravatar.com/avatar/d35e576a39465d9e78deded62acb1803?s=32&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/d35e576a39465d9e78deded62acb1803?s=64&amp;d=mm&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn"><a target="_blank" href='http://www.chriselleinc.com' rel='external nofollow' class='url'>Chriselle</a></cite> <span class="says">says:</span>		</div>
 
-		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#thechrisellefactor.html">
+		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#comment-1200174">
 			January 26, 2016 at 3:33 PM</a>		</div>
 
 		<p>My team and I swear by it! Thanks Cindy! xoxo</p>
@@ -781,7 +777,7 @@ As an blogger even i know how hard it is to stick to schedule.</p>
 				<div class="comment-author vcard">
 			<img alt='' src='http://0.gravatar.com/avatar/63258a818b11bddf28663ab57a8f299d?s=32&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/63258a818b11bddf28663ab57a8f299d?s=64&amp;d=mm&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn"><a target="_blank" href='http://www.thechicdiary.com' rel='external nofollow' class='url'>Diana</a></cite> <span class="says">says:</span>		</div>
 
-		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#thechrisellefactor.html">
+		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#comment-1200149">
 			January 26, 2016 at 10:20 AM</a>		</div>
 
 		<p>I know what you mean when you have everything written down in 5 different places and it just ends up feeling chaotic. Great tips, Chriselle! Asana sounds interesting and useful as well!</p>
@@ -796,7 +792,7 @@ As an blogger even i know how hard it is to stick to schedule.</p>
 				<div class="comment-author vcard">
 			<img alt='' src='http://1.gravatar.com/avatar/d35e576a39465d9e78deded62acb1803?s=32&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/d35e576a39465d9e78deded62acb1803?s=64&amp;d=mm&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn"><a target="_blank" href='http://www.chriselleinc.com' rel='external nofollow' class='url'>Chriselle</a></cite> <span class="says">says:</span>		</div>
 
-		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#thechrisellefactor.html">
+		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#comment-1200175">
 			January 26, 2016 at 3:33 PM</a>		</div>
 
 		<p>Hi Diana! I&#8217;m glad you enjoyed it! xoxo</p>
@@ -811,7 +807,7 @@ As an blogger even i know how hard it is to stick to schedule.</p>
 				<div class="comment-author vcard">
 			<img alt='' src='http://1.gravatar.com/avatar/40428d24555de82e2ffea2068f226ae4?s=32&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/40428d24555de82e2ffea2068f226ae4?s=64&amp;d=mm&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn"><a target="_blank" href='http://www.looksbymc.com' rel='external nofollow' class='url'>mainou</a></cite> <span class="says">says:</span>		</div>
 
-		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#thechrisellefactor.html">
+		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#comment-1200148">
 			January 26, 2016 at 10:17 AM</a>		</div>
 
 		<p>Love the apps Chriselle!<br />
@@ -826,7 +822,7 @@ As an blogger even i know how hard it is to stick to schedule.</p>
 				<div class="comment-author vcard">
 			<img alt='' src='http://1.gravatar.com/avatar/d35e576a39465d9e78deded62acb1803?s=32&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/d35e576a39465d9e78deded62acb1803?s=64&amp;d=mm&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn"><a target="_blank" href='http://www.chriselleinc.com' rel='external nofollow' class='url'>Chriselle</a></cite> <span class="says">says:</span>		</div>
 
-		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#thechrisellefactor.html">
+		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#comment-1200176">
 			January 26, 2016 at 3:33 PM</a>		</div>
 
 		<p>Thank you Mainou! xoxo</p>
@@ -841,7 +837,7 @@ As an blogger even i know how hard it is to stick to schedule.</p>
 				<div class="comment-author vcard">
 			<img alt='' src='http://0.gravatar.com/avatar/333059d527bdd1ce9daa43e4749103f8?s=32&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/333059d527bdd1ce9daa43e4749103f8?s=64&amp;d=mm&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn"><a target="_blank" href='http://reasyume.com' rel='external nofollow' class='url'>Ashley</a></cite> <span class="says">says:</span>		</div>
 
-		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#thechrisellefactor.html">
+		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#comment-1200147">
 			January 26, 2016 at 10:03 AM</a>		</div>
 
 		<p>Great suggestions <img src="http://thechrisellefactor.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
@@ -856,7 +852,7 @@ As an blogger even i know how hard it is to stick to schedule.</p>
 				<div class="comment-author vcard">
 			<img alt='' src='http://1.gravatar.com/avatar/d35e576a39465d9e78deded62acb1803?s=32&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/d35e576a39465d9e78deded62acb1803?s=64&amp;d=mm&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn"><a target="_blank" href='http://www.chriselleinc.com' rel='external nofollow' class='url'>Chriselle</a></cite> <span class="says">says:</span>		</div>
 
-		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#thechrisellefactor.html">
+		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#comment-1200177">
 			January 26, 2016 at 3:33 PM</a>		</div>
 
 		<p>Thank you so much Ashley! xoxo</p>
@@ -871,7 +867,7 @@ As an blogger even i know how hard it is to stick to schedule.</p>
 				<div class="comment-author vcard">
 			<img alt='' src='http://2.gravatar.com/avatar/5993f0bb6d14ce0b6662c6f6c38c2b84?s=32&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/5993f0bb6d14ce0b6662c6f6c38c2b84?s=64&amp;d=mm&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn">alice</cite> <span class="says">says:</span>		</div>
 
-		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#thechrisellefactor.html">
+		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#comment-1200145">
 			January 26, 2016 at 9:12 AM</a>		</div>
 
 		<p>Sounds like I&#8217;m on track; I use 3 out of the 5!  Love Google calendar and Drive, really helps me shuttle things between my desktop and phone/laptop, and Whatsapp is still my all time favorite mobile texting app, been using it for years!</p>
@@ -885,7 +881,7 @@ As an blogger even i know how hard it is to stick to schedule.</p>
 				<div class="comment-author vcard">
 			<img alt='' src='http://1.gravatar.com/avatar/d35e576a39465d9e78deded62acb1803?s=32&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/d35e576a39465d9e78deded62acb1803?s=64&amp;d=mm&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn"><a target="_blank" href='http://www.chriselleinc.com' rel='external nofollow' class='url'>Chriselle</a></cite> <span class="says">says:</span>		</div>
 
-		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#thechrisellefactor.html">
+		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#comment-1200178">
 			January 26, 2016 at 3:34 PM</a>		</div>
 
 		<p>Yay! Thanks Alice! xoxo</p>
@@ -900,7 +896,7 @@ As an blogger even i know how hard it is to stick to schedule.</p>
 				<div class="comment-author vcard">
 			<img alt='' src='http://0.gravatar.com/avatar/9be1966ee82c8675683bd4aec5134c81?s=32&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/9be1966ee82c8675683bd4aec5134c81?s=64&amp;d=mm&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn"><a target="_blank" href='http://poshnessary.com' rel='external nofollow' class='url'>Poshnessary</a></cite> <span class="says">says:</span>		</div>
 
-		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#thechrisellefactor.html">
+		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#comment-1200143">
 			January 26, 2016 at 8:11 AM</a>		</div>
 
 		<p>Love the tips. Great post</p>
@@ -914,7 +910,7 @@ As an blogger even i know how hard it is to stick to schedule.</p>
 				<div class="comment-author vcard">
 			<img alt='' src='http://1.gravatar.com/avatar/d35e576a39465d9e78deded62acb1803?s=32&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/d35e576a39465d9e78deded62acb1803?s=64&amp;d=mm&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn"><a target="_blank" href='http://www.chriselleinc.com' rel='external nofollow' class='url'>Chriselle</a></cite> <span class="says">says:</span>		</div>
 
-		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#thechrisellefactor.html">
+		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#comment-1200179">
 			January 26, 2016 at 3:34 PM</a>		</div>
 
 		<p>Thanks love! xoxo</p>
@@ -929,7 +925,7 @@ As an blogger even i know how hard it is to stick to schedule.</p>
 				<div class="comment-author vcard">
 			<img alt='' src='http://2.gravatar.com/avatar/8322537742ce1301c2784572373ee2e5?s=32&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/8322537742ce1301c2784572373ee2e5?s=64&amp;d=mm&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn"><a target="_blank" href='http://www.stepfromsteph.blogspot.com' rel='external nofollow' class='url'>stephanie</a></cite> <span class="says">says:</span>		</div>
 
-		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#thechrisellefactor.html">
+		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#comment-1200141">
 			January 26, 2016 at 7:48 AM</a>		</div>
 
 		<p>beautiful shoots! I love your headphone</p>
@@ -943,7 +939,7 @@ As an blogger even i know how hard it is to stick to schedule.</p>
 				<div class="comment-author vcard">
 			<img alt='' src='http://1.gravatar.com/avatar/d35e576a39465d9e78deded62acb1803?s=32&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/d35e576a39465d9e78deded62acb1803?s=64&amp;d=mm&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn"><a target="_blank" href='http://www.chriselleinc.com' rel='external nofollow' class='url'>Chriselle</a></cite> <span class="says">says:</span>		</div>
 
-		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#thechrisellefactor.html">
+		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#comment-1200180">
 			January 26, 2016 at 3:34 PM</a>		</div>
 
 		<p>Thanks Stephanie! xoxo</p>
@@ -958,7 +954,7 @@ As an blogger even i know how hard it is to stick to schedule.</p>
 				<div class="comment-author vcard">
 			<img alt='' src='http://2.gravatar.com/avatar/5143b3546cd766ee4e1cb7290906b847?s=32&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/5143b3546cd766ee4e1cb7290906b847?s=64&amp;d=mm&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn">Natali</cite> <span class="says">says:</span>		</div>
 
-		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#thechrisellefactor.html">
+		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#comment-1200140">
 			January 26, 2016 at 7:33 AM</a>		</div>
 
 		<p>Google calendar and Dropbox are something I can&#8217;t live without! 😀 </p>
@@ -972,7 +968,7 @@ As an blogger even i know how hard it is to stick to schedule.</p>
 				<div class="comment-author vcard">
 			<img alt='' src='http://1.gravatar.com/avatar/d35e576a39465d9e78deded62acb1803?s=32&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/d35e576a39465d9e78deded62acb1803?s=64&amp;d=mm&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn"><a target="_blank" href='http://www.chriselleinc.com' rel='external nofollow' class='url'>Chriselle</a></cite> <span class="says">says:</span>		</div>
 
-		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#thechrisellefactor.html">
+		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#comment-1200181">
 			January 26, 2016 at 3:34 PM</a>		</div>
 
 		<p>Hey Natali! Totally agree! Glad you enjoyed the post! xoxo</p>
@@ -987,7 +983,7 @@ As an blogger even i know how hard it is to stick to schedule.</p>
 				<div class="comment-author vcard">
 			<img alt='' src='http://2.gravatar.com/avatar/5ab66ab8df075224fd176cd21b4427ea?s=32&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/5ab66ab8df075224fd176cd21b4427ea?s=64&amp;d=mm&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn"><a target="_blank" href='http://www.teacupsandtulips.com' rel='external nofollow' class='url'>Desimira</a></cite> <span class="says">says:</span>		</div>
 
-		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#thechrisellefactor.html">
+		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#comment-1200139">
 			January 26, 2016 at 7:11 AM</a>		</div>
 
 		<p>Great selection! I also use Google Calendar, Dropbox and WhatsApp and they save tons of time and help with organizing your time better.</p>
@@ -1001,7 +997,7 @@ As an blogger even i know how hard it is to stick to schedule.</p>
 				<div class="comment-author vcard">
 			<img alt='' src='http://1.gravatar.com/avatar/d35e576a39465d9e78deded62acb1803?s=32&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/d35e576a39465d9e78deded62acb1803?s=64&amp;d=mm&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn"><a target="_blank" href='http://www.chriselleinc.com' rel='external nofollow' class='url'>Chriselle</a></cite> <span class="says">says:</span>		</div>
 
-		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#thechrisellefactor.html">
+		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#comment-1200182">
 			January 26, 2016 at 3:34 PM</a>		</div>
 
 		<p>Hi Desimira! Glad you liked it! xoxo</p>
@@ -1016,7 +1012,7 @@ As an blogger even i know how hard it is to stick to schedule.</p>
 				<div class="comment-author vcard">
 			<img alt='' src='http://1.gravatar.com/avatar/18110805065d2c0759000fe5361961cb?s=32&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/18110805065d2c0759000fe5361961cb?s=64&amp;d=mm&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn"><a target="_blank" href='http://www.dressupchowdown.com' rel='external nofollow' class='url'>Thuy</a></cite> <span class="says">says:</span>		</div>
 
-		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#thechrisellefactor.html">
+		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#comment-1200137">
 			January 26, 2016 at 7:08 AM</a>		</div>
 
 		<p>Alarmed and Asana are new ones for me. I use Google Calendar religiously &#8211; ever since university. I love how it syncs to my iPhone Calendar too. I&#8217;m a fan of all clouds basically lmao. I use both Google Drive and Dropbox depending. </p>
@@ -1032,7 +1028,7 @@ As an blogger even i know how hard it is to stick to schedule.</p>
 				<div class="comment-author vcard">
 			<img alt='' src='http://1.gravatar.com/avatar/d35e576a39465d9e78deded62acb1803?s=32&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/d35e576a39465d9e78deded62acb1803?s=64&amp;d=mm&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn"><a target="_blank" href='http://www.chriselleinc.com' rel='external nofollow' class='url'>Chriselle</a></cite> <span class="says">says:</span>		</div>
 
-		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#thechrisellefactor.html">
+		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#comment-1200183">
 			January 26, 2016 at 3:35 PM</a>		</div>
 
 		<p>Hi Thuy! I&#8217;m glad you enjoyed the post! &#038; I totally know what you mean about the notebook thing! xx Chriselle</p>
@@ -1047,7 +1043,7 @@ As an blogger even i know how hard it is to stick to schedule.</p>
 				<div class="comment-author vcard">
 			<img alt='' src='http://1.gravatar.com/avatar/4dd135489879c7b3bc452c4d774b1ef6?s=32&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/4dd135489879c7b3bc452c4d774b1ef6?s=64&amp;d=mm&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn"><a target="_blank" href='http://cherry-mag.com' rel='external nofollow' class='url'>francesca</a></cite> <span class="says">says:</span>		</div>
 
-		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#thechrisellefactor.html">
+		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#comment-1200136">
 			January 26, 2016 at 6:52 AM</a>		</div>
 
 		<p>Good selection! </p>
@@ -1062,7 +1058,7 @@ As an blogger even i know how hard it is to stick to schedule.</p>
 				<div class="comment-author vcard">
 			<img alt='' src='http://1.gravatar.com/avatar/d35e576a39465d9e78deded62acb1803?s=32&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/d35e576a39465d9e78deded62acb1803?s=64&amp;d=mm&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn"><a target="_blank" href='http://www.chriselleinc.com' rel='external nofollow' class='url'>Chriselle</a></cite> <span class="says">says:</span>		</div>
 
-		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#thechrisellefactor.html">
+		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#comment-1200184">
 			January 26, 2016 at 3:35 PM</a>		</div>
 
 		<p>Thank you Francesca! xoxo</p>
@@ -1077,7 +1073,7 @@ As an blogger even i know how hard it is to stick to schedule.</p>
 				<div class="comment-author vcard">
 			<img alt='' src='http://2.gravatar.com/avatar/54ab0144b933ce8c64033f1ca1c80c3b?s=32&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/54ab0144b933ce8c64033f1ca1c80c3b?s=64&amp;d=mm&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn"><a target="_blank" href='http://ashrealasitgets.blogspot.com' rel='external nofollow' class='url'>Ashley</a></cite> <span class="says">says:</span>		</div>
 
-		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#thechrisellefactor.html">
+		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#comment-1200135">
 			January 26, 2016 at 6:47 AM</a>		</div>
 
 		<p>Thanks for the tips! Needed it because my plans are roaming around my head and it&#8217;s a mess! Love your pics x </p>
@@ -1091,7 +1087,7 @@ As an blogger even i know how hard it is to stick to schedule.</p>
 				<div class="comment-author vcard">
 			<img alt='' src='http://1.gravatar.com/avatar/d35e576a39465d9e78deded62acb1803?s=32&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/d35e576a39465d9e78deded62acb1803?s=64&amp;d=mm&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn"><a target="_blank" href='http://www.chriselleinc.com' rel='external nofollow' class='url'>Chriselle</a></cite> <span class="says">says:</span>		</div>
 
-		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#thechrisellefactor.html">
+		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#comment-1200185">
 			January 26, 2016 at 3:35 PM</a>		</div>
 
 		<p>Thank you so much Ashley! xoxo</p>
@@ -1106,7 +1102,7 @@ As an blogger even i know how hard it is to stick to schedule.</p>
 				<div class="comment-author vcard">
 			<img alt='' src='http://1.gravatar.com/avatar/72cd53b80eb3d8b0217ed832ee122f5b?s=32&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/72cd53b80eb3d8b0217ed832ee122f5b?s=64&amp;d=mm&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn"><a target="_blank" href='http://www.valiantlyvarnished.com' rel='external nofollow' class='url'>Ameerah@ Valiantly Varnished</a></cite> <span class="says">says:</span>		</div>
 
-		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#thechrisellefactor.html">
+		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#comment-1200134">
 			January 26, 2016 at 6:26 AM</a>		</div>
 
 		<p>I have that Kate Spade Planner! I love it!</p>
@@ -1119,7 +1115,7 @@ As an blogger even i know how hard it is to stick to schedule.</p>
 				<div class="comment-author vcard">
 			<img alt='' src='http://1.gravatar.com/avatar/d35e576a39465d9e78deded62acb1803?s=32&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/d35e576a39465d9e78deded62acb1803?s=64&amp;d=mm&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn"><a target="_blank" href='http://www.chriselleinc.com' rel='external nofollow' class='url'>Chriselle</a></cite> <span class="says">says:</span>		</div>
 
-		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#thechrisellefactor.html">
+		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#comment-1200186">
 			January 26, 2016 at 3:36 PM</a>		</div>
 
 		<p>Isn&#8217;t it adorable? xoxo</p>
@@ -1134,7 +1130,7 @@ As an blogger even i know how hard it is to stick to schedule.</p>
 				<div class="comment-author vcard">
 			<img alt='' src='http://0.gravatar.com/avatar/c4d70fdb888513145488782fe66c83c9?s=32&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/c4d70fdb888513145488782fe66c83c9?s=64&amp;d=mm&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn"><a target="_blank" href='http://www.itsallbee.com' rel='external nofollow' class='url'>Bianca @itsallbee</a></cite> <span class="says">says:</span>		</div>
 
-		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#thechrisellefactor.html">
+		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#comment-1200133">
 			January 26, 2016 at 6:24 AM</a>		</div>
 
 		<p>Gorgeous pictures. I love dropbox and use that all the time. I need to start using my google calendar more.</p>
@@ -1148,7 +1144,7 @@ As an blogger even i know how hard it is to stick to schedule.</p>
 				<div class="comment-author vcard">
 			<img alt='' src='http://1.gravatar.com/avatar/d35e576a39465d9e78deded62acb1803?s=32&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/d35e576a39465d9e78deded62acb1803?s=64&amp;d=mm&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn"><a target="_blank" href='http://www.chriselleinc.com' rel='external nofollow' class='url'>Chriselle</a></cite> <span class="says">says:</span>		</div>
 
-		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#thechrisellefactor.html">
+		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#comment-1200187">
 			January 26, 2016 at 3:36 PM</a>		</div>
 
 		<p>Thanks so much Bianca! xoxo</p>
@@ -1163,7 +1159,7 @@ As an blogger even i know how hard it is to stick to schedule.</p>
 				<div class="comment-author vcard">
 			<img alt='' src='http://1.gravatar.com/avatar/7be5b29206528dbb2b8a3554dee4db8e?s=32&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/7be5b29206528dbb2b8a3554dee4db8e?s=64&amp;d=mm&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn"><a target="_blank" href='http://www.thefernwehwolf.com' rel='external nofollow' class='url'>Shelby</a></cite> <span class="says">says:</span>		</div>
 
-		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#thechrisellefactor.html">
+		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#comment-1200132">
 			January 26, 2016 at 6:21 AM</a>		</div>
 
 		<p>I always heard of whatsapp but never looked into it.I need to start being more organized this year<br />
@@ -1177,7 +1173,7 @@ As an blogger even i know how hard it is to stick to schedule.</p>
 				<div class="comment-author vcard">
 			<img alt='' src='http://1.gravatar.com/avatar/d35e576a39465d9e78deded62acb1803?s=32&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/d35e576a39465d9e78deded62acb1803?s=64&amp;d=mm&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn"><a target="_blank" href='http://www.chriselleinc.com' rel='external nofollow' class='url'>Chriselle</a></cite> <span class="says">says:</span>		</div>
 
-		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#thechrisellefactor.html">
+		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#comment-1200188">
 			January 26, 2016 at 3:37 PM</a>		</div>
 
 		<p>Whatsapp is great! &#038; good for you! It&#8217;s crazy how being organized makes life so much easier! xoxo</p>
@@ -1192,7 +1188,7 @@ As an blogger even i know how hard it is to stick to schedule.</p>
 				<div class="comment-author vcard">
 			<img alt='' src='http://2.gravatar.com/avatar/e60b7176f056d70c57c6565bdb1e02a3?s=32&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/e60b7176f056d70c57c6565bdb1e02a3?s=64&amp;d=mm&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn">sasa</cite> <span class="says">says:</span>		</div>
 
-		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#thechrisellefactor.html">
+		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#comment-1200130">
 			January 26, 2016 at 6:14 AM</a>		</div>
 
 		<p>Always have great tips! I love this! 😛</p>
@@ -1206,7 +1202,7 @@ As an blogger even i know how hard it is to stick to schedule.</p>
 				<div class="comment-author vcard">
 			<img alt='' src='http://1.gravatar.com/avatar/d35e576a39465d9e78deded62acb1803?s=32&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/d35e576a39465d9e78deded62acb1803?s=64&amp;d=mm&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn"><a target="_blank" href='http://www.chriselleinc.com' rel='external nofollow' class='url'>Chriselle</a></cite> <span class="says">says:</span>		</div>
 
-		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#thechrisellefactor.html">
+		<div class="comment-meta commentmetadata"><a href="http://thechrisellefactor.com/2016/01/5-apps-to-be-more-productive-in-2016/#comment-1200189">
 			January 26, 2016 at 3:37 PM</a>		</div>
 
 		<p>Thank you Sasa! xoxo</p>
@@ -1318,9 +1314,7 @@ var icegram_data = {"messages":[{"post_title":"Chic list Mail Chimp","type":"pop
 /* ]]> */
 </script>
 <script type='text/javascript' src='http://thechrisellefactor.com/wp-content/plugins/icegram/assets/js/main.js?ver=1.9.11.1'></script>
-<div id="upprev_box"><div class="upprev_excerpt upprev_thumbnail"><a href="http://thechrisellefactor.com/2016/01/stellaamoeba/thechrisellefactor.html"
-																	 title="#STELLAamoeba" class="upprev_thumbnail" rel="5 Apps to be More Productive in 2016"><img width="125" height="125" src="http://thechrisellefactor.com/wp-content/uploads/2016/01/chriselle_lim_stella_printed_dress-1-125x125.jpg" class="iworks_upprev_thumb wp-post-image" alt="chriselle_lim_stella_printed_dress-1" title="#STELLAamoeba" /></a><h5><a href="http://thechrisellefactor.com/2016/01/stellaamoeba/thechrisellefactor.html"
-																																																																																																									 rel="5 Apps to be More Productive in 2016">#STELLAamoeba</a></h5><br /></div><a id="upprev_close" href="#" rel="close">Close</a></div>
+<div id="upprev_box"><div class="upprev_excerpt upprev_thumbnail"><a href="http://thechrisellefactor.com/2016/01/stellaamoeba/" title="#STELLAamoeba" class="upprev_thumbnail" rel="5 Apps to be More Productive in 2016"><img width="125" height="125" src="http://thechrisellefactor.com/wp-content/uploads/2016/01/chriselle_lim_stella_printed_dress-1-125x125.jpg" class="iworks_upprev_thumb wp-post-image" alt="chriselle_lim_stella_printed_dress-1" title="#STELLAamoeba" /></a><h5><a href="http://thechrisellefactor.com/2016/01/stellaamoeba/" rel="5 Apps to be More Productive in 2016">#STELLAamoeba</a></h5><br /></div><a id="upprev_close" href="#" rel="close">Close</a></div>
 	<script type="text/javascript" src="http://thechrisellefactor.com/wp-content/themes/thechrisellefactor2015/js/responsive-videos.js"></script>
 	<script type="text/javascript" src="http://thechrisellefactor.com/wp-content/themes/thechrisellefactor2015/js/instafeed.min.js"></script>
 

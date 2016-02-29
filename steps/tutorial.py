@@ -1,8 +1,13 @@
+import codecs
+import logging
+
 import requests_mock
 from behave import *
 
 from blog_parser import BlogParser
-from utils import file_get_content
+from socialapp.utils import file_get_content
+
+bdd = logging.getLogger('bdd')
 
 
 @requests_mock.Mocker()
@@ -16,9 +21,16 @@ def step_impl(context, url, file):
 
 @then("I should see {text}")
 def step_impl(context, text):
+    if not text in context.content:
+        with codecs.open('out.txt', 'w', 'utf-8') as f:
+            f.write(context.content)
+
     assert text in context.content
 
 
 @then("I should not see {text}")
 def step_impl(context, text):
+    if text in context.content:
+        with codecs.open('out.txt', 'w', 'utf-8') as f:
+            f.write(context.content)
     assert not text in context.content
