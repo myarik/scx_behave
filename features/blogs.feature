@@ -64,6 +64,26 @@ Feature: Blog parsing
   And I should not see follow-up comments by email.
   And I should not see haha
 
+ Scenario:beautezine
+   When I visit url http://www.beautezine.com/brighten-tired-eyes-clinique-pep-start/ in file beautezine.html
+   Then I should see SPONSORED BY CLINIQUE
+   And I should see Don’t forget to
+   And I should see Dark circles, puffiness and fine lines
+   And I should not see PRODUCT OF THE DAY
+   And I should not see haha
+   And I should not see You Might Also Like
+
+Scenario:urbanette
+   When I visit url http://urbanette.com/lose-those-winter-blues-and-blahs/ in file urbanette.html
+   Then I should see  Weekend section of the New York Times
+   And I should see When all else fails and the winter blues persist
+   And I should see Find a tai chi class
+   And I should not see haha
+   And I should not see CONNECT WITH US!
+   And I should not see ENTER YOUR EMAIL BELOW
+
+
+
 
 
 
